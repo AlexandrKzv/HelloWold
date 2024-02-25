@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Репозиторий на GitHub называется 'Hello world!'");
         System.out.println("Новый commit");
-
+        System.out.println("Новая ветка создана. Ща буду делать PR");
     }
 }
